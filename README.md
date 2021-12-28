@@ -1,1 +1,5 @@
-# Systems.of.Security, labs on the subject "software and data security"
+# Lab 1
+
+Install [nodejs](https://nodejs.org/uk/download/)
+
+Start program `npm start`
